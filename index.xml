@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>EGerrit</title>
+    <link>https://www.eclipse.org/egerrit/</link>
+    <description>Recent content on EGerrit</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 22 Oct 2015 14:45:15 +0200</lastBuildDate>
+    <atom:link href="https://www.eclipse.org/egerrit/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>about</title>
+      <link>https://www.eclipse.org/egerrit/about/</link>
+      <pubDate>Thu, 22 Oct 2015 14:45:15 +0200</pubDate>
+      
+      <guid>https://www.eclipse.org/egerrit/about/</guid>
+      <description>
+
+&lt;h1 id=&#34;title-h1:6083a88ee3411b0d17ce02d738f69d47&#34;&gt;title H1&lt;/h1&gt;
+
+&lt;h2 id=&#34;title:6083a88ee3411b0d17ce02d738f69d47&#34;&gt;title&lt;/h2&gt;
+
+&lt;p&gt;Some content&lt;/p&gt;
+
+&lt;h2 id=&#34;title2:6083a88ee3411b0d17ce02d738f69d47&#34;&gt;title2&lt;/h2&gt;
+
+&lt;p&gt;Some content&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://www.eclipse.org/egerrit/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.eclipse.org/egerrit/</guid>
+      <description>
+
+&lt;p&gt;&lt;img src=&#34;images/EGerrit.png&#34; alt=&#34;EGerritLogo&#34; /&gt;
+&lt;/p&gt;
+
+&lt;p&gt;EGerrit is an Eclipse plug-in that provides an integration of &lt;a href=&#34;http://gerrit-review.googlesource.com/&#34;&gt;Gerrit&lt;/a&gt; in Eclipse. Gerrit is a review tool that facilitates collaboration between committers and contributors of a project. EGerrit aims at deeply integrating the best of Gerrit&amp;rsquo;s features into Eclipse to minimize the context switch from the IDE to the web, and leverage IDE specific features such as syntax coloring, navigation, etc.&lt;/p&gt;
+
+&lt;p&gt;As such, EGerrit allows to perform most operations on reviews such as voting, submitting, abandoning, etc. Also it gives the user the ability to directly comment in the file when reviewing the changes.&lt;/p&gt;
+
+&lt;h1 id=&#34;installation:d680e8a854a7cbad6d490c445cba2eba&#34;&gt;Installation&lt;/h1&gt;
+
+&lt;p&gt;You can install EGerrit from the Eclipse MarketPlace by drag-and-dropping this link on your Eclipse installation
+&lt;a href=&#34;http://marketplace.eclipse.org/marketplace-client-intro?mpc_install=2579663&#34; class=&#34;drag&#34; title=&#34;Drag to your running Eclipse workspace to install EGerrit&#34;&gt;&lt;img src=&#34;https://marketplace.eclipse.org/sites/all/themes/solstice/_themes/solstice_marketplace/public/images/btn-install.png&#34; alt=&#34;Drag to your running Eclipse workspace to install EGerrit&#34; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;If you want more recent builds, please consult the list of our &lt;a href=&#34;https://wiki.eclipse.org/EGerrit/p2_repositories&#34;&gt;p2 repositories&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h1 id=&#34;documentation:d680e8a854a7cbad6d490c445cba2eba&#34;&gt;Documentation&lt;/h1&gt;
+
+&lt;p&gt;You can find preliminary documentation &lt;a href=&#34;https://wiki.eclipse.org/EGerrit/p2_repositories&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h1 id=&#34;screenshots:d680e8a854a7cbad6d490c445cba2eba&#34;&gt;Screenshots&lt;/h1&gt;
+
+&lt;h2 id=&#34;gerrit-dashboard-view:d680e8a854a7cbad6d490c445cba2eba&#34;&gt;Gerrit dashboard view&lt;/h2&gt;
+
+&lt;p&gt;&lt;img src=&#34;images/EGerritDashboard.png&#34; alt=&#34;EGerrit dashboard view&#34; /&gt;
+&lt;/p&gt;
+
+&lt;h2 id=&#34;gerrit-review-editor:d680e8a854a7cbad6d490c445cba2eba&#34;&gt;Gerrit review editor&lt;/h2&gt;
+
+&lt;p&gt;&lt;img src=&#34;images/EGerritEditor.png&#34; alt=&#34;EGerrit review editor&#34; /&gt;
+&lt;/p&gt;
+
+&lt;h2 id=&#34;inline-comment-editing:d680e8a854a7cbad6d490c445cba2eba&#34;&gt;Inline comment editing&lt;/h2&gt;
+
+&lt;p&gt;&lt;img src=&#34;images/EGerritInlineComment.png&#34; alt=&#34;EGerrit review editor&#34; /&gt;
+&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
